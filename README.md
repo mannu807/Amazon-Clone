@@ -1,2 +1,2 @@
 # Amazon-Clone
-This website is only created using HTML ans CSS.
+This website is created only using HTML ans CSS.
